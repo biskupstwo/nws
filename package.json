@@ -1,0 +1,26 @@
+{
+  "name": "nws",
+  "version": "1.0.0",
+  "description": "projekcik ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build",
+    "dev": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biskupstwo/nws.git"
+  },
+  "keywords": [
+    "najbardziej",
+    "wyluzowany",
+    "stary"
+  ],
+  "author": "Jan Biskupski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biskupstwo/nws/issues"
+  },
+  "homepage": "https://github.com/biskupstwo/nws#readme"
+}
